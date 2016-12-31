@@ -1,0 +1,29 @@
+www.patreon.com/oauth2/authorize?response_type=code&client_id=a7e93821e29e321ab7b5de2d6e39fc12a1604686d857b7ddd4e80bed5f17057c&redirect_uri=http://127.0.0.1:3000/run/valid
+www.patreon.com/oauth2/authorize?response_type=code&client_id=a7e93821e29e321ab7b5de2d6e39fc12a1604686d857b7ddd4e80bed5f17057c&redirect_uri=http://bit.ly/2iEFqTt
+www.patreon.com/oauth2/authorize?response_type=code&client_id=a7e93821e29e321ab7b5de2d6e39fc12a1604686d857b7ddd4e80bed5f17057c&redirect_uri=http://forum-arnii.j.layershift.co.uk/bonus.php
+www.patreon.com/oauth2/authorize?response_type=code&client_id=a7e93821e29e321ab7b5de2d6e39fc12a1604686d857b7ddd4e80bed5f17057c&redirect_uri=http://tinyurl.com/jhrg8mq
+
+
+
+
+401
+POST /oauth2/token?code=8R4BCu9ITAUR4bbA1QUFqQaBTPFrES&grant_type=authorization_code&client_id=a7e93821e29e321ab7b5de2d6e39fc12a1604686d857b7ddd4e80bed5f17057c&client_secret=029a57c35ed35d57e0244de30be6fcc54091376f69d574464492297527436904&redirect_uri=http://forum-arnii.j.layershift.co.uk/bonus.php HTTP/1.1
+HOST: api.patreon.com
+content-type: application/x-www-form-urlencoded
+cookie: amplitude_idpatreon.com=ewogICAgImRldmljZUlkIjogIjgzYTU4NTRmLWI5YWItNDAzMC1iYTEyLWFmZmE5YTM4MTYyYyIsCiAgICAib3B0T3V0IjogZmFsc2UsCiAgICAidXNlcklkIjogMAp9; group_id=9f6314bdc8932d3a9eaa38095a18ec9c5db838d65170f4d85568da27ad8d026c; patreon_device_id=83a5854f-b9ab-4030-ba12-affa9a38162c; session_id=py494a20f0c973276a86e8313c281d2f612f51a84b8722c69c9571ead0fe07d069
+content-length: 0
+
+
+200
+POST /oauth2/token?code=YkovIEbOhgFn7CrJbuYX56Ao2toSSw&grant_type=authorization_code&client_id=a7e93821e29e321ab7b5de2d6e39fc12a1604686d857b7ddd4e80bed5f17057c&client_secret=029a57c35ed35d57e0244de30be6fcc54091376f69d574464492297527436904&redirect_uri=http://forum-arnii.j.layershift.co.uk/bonus.php HTTP/1.1
+HOST: api.patreon.com
+content-type: application/x-www-form-urlencoded
+cookie: amplitude_idpatreon.com=ewogICAgImRldmljZUlkIjogIjgzYTU4NTRmLWI5YWItNDAzMC1iYTEyLWFmZmE5YTM4MTYyYyIsCiAgICAib3B0T3V0IjogZmFsc2UsCiAgICAidXNlcklkIjogMAp9; group_id=9f6314bdc8932d3a9eaa38095a18ec9c5db838d65170f4d85568da27ad8d026c; patreon_device_id=83a5854f-b9ab-4030-ba12-affa9a38162c; session_id=py494a20f0c973276a86e8313c281d2f612f51a84b8722c69c9571ead0fe07d069
+content-length: 0
+
+
+www.patreon.com/oauth2/authorize?response_type=code&client_id=e205d39c9587fa582cf6ef3f9c5f9e221b00a325b1fcdf42b050aa78e8f55e26&redirect_uri=http://localhost:3000/run/valid
+
+
+
+http://api.patreon.com/oauth2/token?code=Ielr6LiIX7KANXDwBVEVnQc0dJSaNd&grant_type=authorization_code&client_id=e205d39c9587fa582cf6ef3f9c5f9e221b00a325b1fcdf42b050aa78e8f55e26&client_secret=f8ee414e31894109c2bed27264ddd62fc763daece1d7194b3184e40d9db5f405&redirect_uri=http://www.google.com
